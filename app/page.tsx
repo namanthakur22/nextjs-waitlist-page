@@ -13,7 +13,7 @@ export default function Home() {
             src="/mobile-app.png"
             alt="Mobile App Screenshots"
             fill
-            className="object-contain mt-8 md:mt-24 px-14 object-bottom"
+            className="object-contain px-14 object-bottom"
           />
         </div>
 
